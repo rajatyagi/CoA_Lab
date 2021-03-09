@@ -1,0 +1,9 @@
+Buildfile: /mnt/r/Rajat/WORK/Architecture_Lab/CoA_lab/Assignment 6/submissions/build.xml
+
+build-subprojects:
+
+init:
+    [mkdir] Created dir: /mnt/r/Rajat/WORK/Architecture_Lab/CoA_lab/Assignment 6/submissions/bin
+     [copy] Copying 1 file to /mnt/r/Rajat/WORK/Architecture_Lab/CoA_lab/Assignment 6/submissions/bin
+
+build-project:
